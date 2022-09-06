@@ -17,5 +17,8 @@ I am a Junior Software Developer. I did work as a junior software developer in a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoypaul)](https://github.com/anuraghazra/github-readme-stats)
 
+# ✉ Connect with me!
+anoypaul79@gmail.com
+
 
 
