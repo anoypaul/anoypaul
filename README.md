@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I'm Anoy Chandra Paul
+# Hi, I'm Anoy Chandra Paul 👋
 #### Web Developer
 I am a Junior Software Developer. I did work as a junior software developer in a software company called ICT Layer with an seven month. Most of time I worked with Laravel & CodeIgniter Framework.
 
