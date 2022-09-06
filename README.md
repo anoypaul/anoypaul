@@ -2,7 +2,7 @@
 👑 Web Developer <br>
 🖊️ Love to write code
 
-# 🚀 About Me
+# 👉 About Me
 I am a Junior Web Developer. I did work as a junior Web developer in a software company called ICT Layer with an seven month. Most of time I worked with Laravel & CodeIgniter Framework.
 
 # 👨‍💻 Skills: 
