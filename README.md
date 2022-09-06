@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, Hi, I'm Anoy Chandra Paul
+#### Web Developer
+I am a Junior Software Developer. I did worked as a junior software developer in a software company called ICT Layer with an seven month.
 
-<!--
-**anoypaul/anoypaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Laravel / CodeIgniter/ PHP / HTML / CSS/JavaScript
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Freelance Project 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on github 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anoypaul)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anoypaul)](https://github.com/anuraghazra/github-readme-stats)
+
