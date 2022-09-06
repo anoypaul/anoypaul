@@ -2,7 +2,7 @@
 #### Web Developer
 I am a Junior Software Developer. I did work as a junior software developer in a software company called ICT Layer with an seven month. Most of time I worked with Laravel & CodeIgniter Framework.
 
-Skills: Laravel / CodeIgniter/ PHP / HTML / CSS/JavaScript
+Skills: Laravel / CodeIgniter / PHP / JavaScript / HTML / CSS/
 
 - 🔭 I’m currently working on Freelance Project 
 - 🌱 I’m currently learning JavaScript 
